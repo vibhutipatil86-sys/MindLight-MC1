@@ -1,0 +1,8 @@
+{
+  "name": "Loop AI",
+  "description": "A powerful multimodal AI assistant combining real-time search grounding and advanced reasoning with a sleek, Grok-inspired interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
